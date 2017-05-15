@@ -1,1 +1,1 @@
-# Developmental-stage-Influences-metabolism-and-gut-microbiome-structure-in-PCOS-mouse-model
+# Developmental Stage Influences Metabolism and Gut Microbiome Community Structure in aHyperandrogenic Mouse Model of Polycystic Ovary Syndrome. Torres et al. 2017
